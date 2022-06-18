@@ -1,9 +1,9 @@
 # directory
-pwd                   komutuyla nerede oldugumu kontrol ettim
-cd ..                 komutuyla Hicoders dosyasini olusturmak istedigim bir üst klasöre gectim
-mkdir HiCoders        Hicoders  klasörümü olusturdum
-cd HiCoders           hicoders klasörünün icine girdim
-mkdir CSS             css klasörü olusturdum
+pwd                   komutuyla nerede oldugumu kontrol ettim <br>
+cd ..                 komutuyla Hicoders dosyasini olusturmak istedigim bir üst klasöre gectim<br>
+mkdir HiCoders        Hicoders  klasörümü olusturdum<br>
+cd HiCoders           hicoders klasörünün icine girdim<br>
+mkdir CSS             css klasörü olusturdum<br>
 mkdir JS              js klasörü olusturdum  
 mkdir Preparation     Preparation klasörü olusturdum
 cd Preparation        praparation klasörü icine girdim
